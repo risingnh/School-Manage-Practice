@@ -1,0 +1,6 @@
+{
+  "name": "Sygmate School Management System",
+  "description": "Enterprise-grade school management system featuring Certificate & Document Management, institutional Inventory & Asset Management, Front Office & Visitor Management, HR, attendance, fees, examinations, and student/parent portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
